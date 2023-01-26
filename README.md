@@ -45,3 +45,8 @@ Infrared addresses and the data values of the Osram RGB Lightbulb Remote.
 |   0x10   |   0x11   |   0x12   |  0x13  |
 |   0x14   |   0x15   |   0x16   |  0x17  |
 |   0x18   |   0x19   |   0x1a   |  0x1b  |
+
+###### _Note: The NEC protocol should be use if you're planning on IR transmitting._ <br>
+###### _Note: Transmitting could be easily accomplished using [this](https://github.com/peterhinch/micropython_ir) library on micropython._
+
+---
