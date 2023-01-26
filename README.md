@@ -49,6 +49,6 @@ Infrared addresses and the data values of the Osram RGB Lightbulb Remote.
 ---
 
 ###### _Note: The NEC protocol should be use if you're planning on IR transmitting._ <br>
-###### _Note: Transmitting could be easily accomplished using [this](https://github.com/peterhinch/micropython_ir) library on micropython._
+###### _Note: Transmitting could be easily accomplished by using [this](https://github.com/peterhinch/micropython_ir) library on micropython._
 
 ---
